@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\bin",
+    "\\API\\bin\\Debug",
+    "\\API\\bin\\Debug\\netcoreapp3.0",
+    "\\API\\bin\\Release",
+    "\\API\\Controllers",
+    "\\API\\Properties"
+  ],
+  "SelectedNode": "\\API\\API.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
