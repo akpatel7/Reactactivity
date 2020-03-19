@@ -6,6 +6,6 @@
     "\\API\\Controllers",
     "\\API\\Properties"
   ],
-  "SelectedNode": "\\API\\Program.cs",
+  "SelectedNode": "\\API\\Controllers\\ValuesController.cs",
   "PreviewInSolutionExplorer": false
 }
