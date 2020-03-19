@@ -1,3 +1,7 @@
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.csprojAssemblyReference.cache
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.AssemblyInfoInputs.cache
+C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.AssemblyInfo.cs
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\appsettings.Development.json
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\appsettings.json
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
@@ -11,6 +15,7 @@ C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
@@ -36,12 +41,7 @@ C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Persistence.dll
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Application.pdb
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Domain.pdb
 C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Persistence.pdb
-C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.csprojAssemblyReference.cache
-C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cache
-C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.AssemblyInfoInputs.cache
-C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.AssemblyInfo.cs
 C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.RazorTargetAssemblyInfo.cache
 C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.csproj.CopyComplete
 C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.dll
 C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.pdb
-C:\Dev\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
