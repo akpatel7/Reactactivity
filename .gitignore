@@ -1,8 +1,11 @@
 *.swp
 *.*~
 project.lock.json
-.DS_Store
 *.pyc
+bin
+obj
+.DS_Store
+*.db
 
 # Visual Studio Code
 .vscode
