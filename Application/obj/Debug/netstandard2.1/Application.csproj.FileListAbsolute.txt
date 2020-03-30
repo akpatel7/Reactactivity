@@ -11,3 +11,9 @@ C:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInf
 C:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
 C:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
 C:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
+D:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
+D:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Dev\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs

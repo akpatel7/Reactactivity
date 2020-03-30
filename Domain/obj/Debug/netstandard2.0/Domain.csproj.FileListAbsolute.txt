@@ -6,3 +6,12 @@ C:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
 C:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
 C:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\Dev\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\Dev\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\Dev\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\Dev\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb

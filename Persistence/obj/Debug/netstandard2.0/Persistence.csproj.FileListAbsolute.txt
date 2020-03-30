@@ -9,3 +9,15 @@ C:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInf
 C:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
 C:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
 C:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+D:\Dev\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\Dev\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\Dev\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\Dev\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\Dev\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+D:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+D:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+D:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+D:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\Dev\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

@@ -45,3 +45,5 @@ C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.RazorTargetAssemblyInfo.cach
 C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.csproj.CopyComplete
 C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.dll
 C:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.pdb
+D:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.dll
+D:\Dev\Reactivities\API\obj\Debug\netcoreapp3.0\API.pdb
